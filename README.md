@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Programming & Cyber Security Student</b><br>
-  📍 Istanbul, Turkey &nbsp;|&nbsp; 📧 <a href="mailto:codingedoch1n@gmail.com">codingedoch1n@gmail.com</a>
+  📍 Istanbul, Turkey &nbsp;|&nbsp; 📧 <a href="mailto:edoch1nnnn@gmail.com">codingedoch1n@gmail.com</a>
 </p>
 
 <p align="center">
