@@ -1,93 +1,89 @@
-<h1 align="center">Hi there, I'm Yakup EKELİK 👋</h1>
-
+<!-- Hero Banner -->
 <p align="center">
-  <b>Computer Programming & Cyber Security Student</b><br>
-  📍 Istanbul, Turkey &nbsp;|&nbsp; 📧 <a href="mailto:edoch1nnnn@gmail.com">codingedoch1n@gmail.com</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Z10N&fontSize=80&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile...&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
+<!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Computer+Programming+Student;Cyber+Security+Enthusiast;Python+%26+JavaScript+Developer;Always+learning+new+things..." alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Studying **Computer Programming & Cyber Security** at **Eskişehir Teknik Üniversitesi** (2030)
-- 🌱 Currently improving my skills in **Python, JavaScript & Mobile Development**
-- 🔐 Passionate about **Cyber Security** and ethical hacking
-- 🌍 Based in **Istanbul, Turkey**
-- 📬 Reach me at **codingedoch1n@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🔧 Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔐 Cyber Security
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🎓 Education
-
-| 🏫 School | 📚 Department | 📅 Year |
-|---|---|---|
-| Eskişehir Teknik Üniversitesi | Computer Programming & Cyber Security | 2026 – 2030 |
-
----
-
-## 🌐 Languages
-
-| Language | Level |
-|---|---|
-| 🇹🇷 Turkish | Native |
-| 🇬🇧 English | B2 – Upper Intermediate |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Blue+Team+Enthusiast;Computer+Programming+Student;Linux+Learner;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🪪 Minimal Anonymous Identity
 
-<p align="center">
-  <a href="mailto:codingedoch1n@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+> **Alias:** `Z10N`
+> **Location:** `[REDACTED]`
+> **Status:** `In_Training`
+> **Clearance Level:** `Beginner`
+> **Objective:** `Learn. Adapt. Defend.`
+
+---
+
+## 🕵️‍♂️ About Me
+
+- 🛡️ Passionate **Cyber Security Learner** taking my first steps into the world of digital defense.
+- 🎓 Currently a **Computer Programming Student** building a strong foundation in how systems operate.
+- 🌱 Actively developing my skills in **Python**, **Networking**, and **Linux Environments**.
+- 💡 Exploring defensive security concepts, log analysis, and system hardening.
+- 🔍 **My philosophy:** *You cannot protect an environment you do not understand.* 
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Development & Scripting
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,c&theme=dark" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🐧 Operating Systems
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,debian&theme=dark" />
+  </a>
+</p>
+
+### 🔧 Workspaces & Version Control
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,docker&theme=dark" />
   </a>
 </p>
 
 ---
 
+## 🎯 Current Learning Goals & Cyber Security Interests
+
+- 🔐 **Blue Team Basics:** Understanding defensive concepts, basic log analysis, and incident response fundamentals.
+- 🌐 **Network Fundamentals:** Deep dive into TCP/IP, DNS, HTTP/S, and network traffic analysis.
+- 🐍 **Security Scripting:** Using Python to automate simple tasks and interact with APIs.
+- 🕵️ **OSINT:** Learning safe, passive information gathering and reconnaissance techniques.
+- 📚 **Platform Training:** Engaging with beginner paths on platforms like TryHackMe.
+
+---
+
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00b4d8&style=flat-square" alt="Profile views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Z10N&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-<p align="center"><i>"The quieter you become, the more you can hear." — Kali Linux</i></p>
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=edoch1n&label=SYSTEM_VISITORS&color=00FF9D&style=flat-square" alt="Visitor Counter" />
+
+<br><br>
+
+<i>"Security is a process, not a product." <br>— Bruce Schneier</i>
+
+</div>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer" width="100%"/>
+</p>
